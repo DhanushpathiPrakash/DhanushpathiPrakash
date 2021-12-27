@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **Python, Web development, Artificial Intelligence and Machine Learning**
 
-- 📫 How to reach me **dhanushpathiprakash2002@gmail.com**
+- 📫 How to reach me **dhanushpathiprakash@gmail.com**
 
-- ⚡ Fun fact **I think I am Lazy**
+- ⚡ Fun fact **I think I am Fuuny Person**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamnarendrans&label=Profile%20views&color=0e75b6&style=flat" alt="iamnarendrans" /> </p>
 
