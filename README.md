@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learn-9ing **Django,Artificial Intelligence and Machine Learning**
 
-- 📝 I regularly write articles on [https://medium.com/@dhanushpathiprakash](https://medium.com/@dhanushpathiprakash)
+- 📝 I regularly read articles on [https://medium.com/@dhanushpathiprakash](https://medium.com/@dhanushpathiprakash)
 
 - 💬 Ask me about **Python, Web development, Artificial Intelligence and Machine Learning**
 
