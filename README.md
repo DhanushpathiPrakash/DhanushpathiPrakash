@@ -5,7 +5,7 @@
 <img align="right" src="https://cdn.dribbble.com/users/1928646/screenshots/5781055/support.gif" width="300" height="250" />
 
 
-- 🌱 I’m currently learn-9ing **Django,Artificial Intelligence and Machine Learning**
+- 🌱 I’m currently learn-9ing **Django,Artificial Intelligence and Machine Learning, BlockChanin Technology**
 
 - 📝 I regularly read articles on [https://medium.com/@dhanushpathiprakash](https://medium.com/@dhanushpathiprakash)
 
