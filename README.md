@@ -15,10 +15,10 @@
 
 - ⚡ Fun fact **I think I am Fuuny Person**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamnarendrans&label=Profile%20views&color=0e75b6&style=flat" alt="iamnarendrans" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DhanushpathiPrakash&label=Profile%20views&color=0e75b6&style=flat" alt="DhanushpathiPrakash" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamnarendrans" alt="iamnarendrans" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DhanushpathiPrakash" alt="DhanushpathiPrakash" /></a> </p>
  
 
 
