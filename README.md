@@ -1,4 +1,4 @@
-![Profile](https://user-images.githubusercontent.com/78605418/150633252-9445b4a2-1f9d-492a-acfe-17463ee43400.png)
+![Profile](https://user-images.githubusercontent.com/78605418/150633274-b4aeca69-0cfb-43f5-a730-a8ce514e252e.png)
 
 <h3 align="center">A Passionate in Web App Development , AL & Ml , Blockchain Technology</h3>
 
