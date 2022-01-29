@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dhanushpathiprakash@gmail.com**
 
-- ⚡ Fun fact **I think I am Fuuny Person**
+- ⚡ Fun fact **I think I am Funy Person**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DhanushpathiPrakash&label=Profile%20views&color=0e75b6&style=flat" alt="DhanushpathiPrakash" /> </p>
 
