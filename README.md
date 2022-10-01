@@ -1,6 +1,6 @@
 ![Profile](https://user-images.githubusercontent.com/78605418/150633274-b4aeca69-0cfb-43f5-a730-a8ce514e252e.png)
 
-<h3 align="center">A Passionate in Web App Development , AL & Ml , Blockchain Technology</h3>
+<h3 align="center">A Passionate in Web App Development , AI & ML , Blockchain Technology</h3>
 
 <img align="right" src="https://cdn.dribbble.com/users/1928646/screenshots/5781055/support.gif" width="300" height="250" />
 
