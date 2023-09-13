@@ -1,6 +1,6 @@
 ![Profile](https://user-images.githubusercontent.com/78605418/150633274-b4aeca69-0cfb-43f5-a730-a8ce514e252e.png)
 
-<h3 align="center">A Passionate in <itallic>Full-Stack Developer</itallic></h3>
+<h3 align="center">A Passionate Full-Stack Developer</h3>
 
 <img align="right" src="https://cdn.dribbble.com/users/1928646/screenshots/5781055/support.gif" width="300" height="250" />
 
@@ -12,8 +12,6 @@
 - 💬 Ask me about **Python, Web development**
 
 - 📫 How to reach me **dhanushpathiprakash@gmail.com**
-
-- [<img_src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='Telegram' height='40'>]([https://t.me/Dhanushpathi_Prakash]) **DHANUSHPATHI PRAKASH**
 
 - ⚡ Fun fact **I think I am Funy Person**
 
