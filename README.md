@@ -15,6 +15,9 @@
 
 - ⚡ Fun fact **I think I am Funy Person**
 
+<br>
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DhanushpathiPrakash&label=Profile%20views&color=0e75b6&style=flat" alt="DhanushpathiPrakash" /> </p>
 
 
@@ -44,4 +47,4 @@
 
 ### 📢 Find me elsewhere
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DhanushpathiPrakash)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dhanushpathi-prakash-9296b71a1/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Dhanushpathi007)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Dhanushpathi_Prakash)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='Reddit' height='40'>](https://t.me/Dhanushpathi_Prakash)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DhanushpathiPrakash)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dhanushpathi-prakash-9296b71a1/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Dhanushpathi007)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Dhanushpathi_Prakash)
