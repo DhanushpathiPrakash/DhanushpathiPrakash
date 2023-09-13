@@ -1,11 +1,11 @@
 ![Profile](https://user-images.githubusercontent.com/78605418/150633274-b4aeca69-0cfb-43f5-a730-a8ce514e252e.png)
 
-<h3 align="center">A Passionate in <div style="font-style: italic; font-weight: normal; font-size: 17.325pt; line-height: 26px; padding-bottom: 0px;">Full-Stack Developer</div></h3>
+<h3 align="center">A Passionate in <itallic>Full-Stack Developer</itallic></h3>
 
 <img align="right" src="https://cdn.dribbble.com/users/1928646/screenshots/5781055/support.gif" width="300" height="250" />
 
 
-- 🌱 I’m currently learning **Django, Wagtail**
+- 🌱 I’m currently learning **Django, Wagtail, open CV**
 
 - 📝 I regularly read articles on [https://medium.com/@dhanushpathiprakash](https://medium.com/@dhanushpathiprakash)
 
