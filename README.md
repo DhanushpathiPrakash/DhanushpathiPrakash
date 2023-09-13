@@ -1,17 +1,19 @@
 ![Profile](https://user-images.githubusercontent.com/78605418/150633274-b4aeca69-0cfb-43f5-a730-a8ce514e252e.png)
 
-<h3 align="center">A Passionate in Web App Development , AI & ML , Blockchain Technology</h3>
+<h3 align="center">A Passionate in <div style="font-style: italic; font-weight: normal; font-size: 17.325pt; line-height: 26px; padding-bottom: 0px;">Full-Stack Developer</div></h3>
 
 <img align="right" src="https://cdn.dribbble.com/users/1928646/screenshots/5781055/support.gif" width="300" height="250" />
 
 
-- 🌱 I’m currently learn-9ing **Django,Artificial Intelligence and Machine Learning, BlockChanin Technology**
+- 🌱 I’m currently learning **Django, Wagtail**
 
 - 📝 I regularly read articles on [https://medium.com/@dhanushpathiprakash](https://medium.com/@dhanushpathiprakash)
 
-- 💬 Ask me about **Python, Web development, Artificial Intelligence and Machine Learning**
+- 💬 Ask me about **Python, Web development**
 
 - 📫 How to reach me **dhanushpathiprakash@gmail.com**
+
+- [<img_src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='Telegram' height='40'>]([https://t.me/Dhanushpathi_Prakash]) **DHANUSHPATHI PRAKASH**
 
 - ⚡ Fun fact **I think I am Funy Person**
 
@@ -35,29 +37,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-
-
-
-
-### 📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DhanushpathiPrakash&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-
-<p><img align="right"width="40%" height="200"src="https://github-readme-stats.vercel.app/api/top-langs?username=DhanushpathiPrakash&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="DhanushpathiPrakash" /></p> 
-<p><img align="center" width="48%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=DhanushpathiPrakash&theme=tokyonight" alt="DhanushpathiPrakash" /></p>
-
-
-</br>
-
-### Contribution Graph
-<a href=""><img alt="Dhanushpathi prakash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DhanushpathiPrakash&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /></a>
-
-<div align="center">
-
-## Show some ❤️ by starring some of the repositories!
 </div>
-
-
 
 
 <p align="left"> <a href="https://twitter.com/@Dhanushpathi007
@@ -66,5 +46,4 @@
 
 ### 📢 Find me elsewhere
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DhanushpathiPrakash)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dhanushpathi-prakash-9296b71a1/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Dhanushpathi007)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Dhanushpathi_Prakash)[<img 
-src='https://user-images.githubusercontent.com/78605418/147490813-3476bc4d-3ac6-4be1-8d83-ceeb509b21c0.png' alt='trailhead' height='40'>](https://www.trailblazer.me/id/dhanushpathi)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DhanushpathiPrakash)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dhanushpathi-prakash-9296b71a1/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Dhanushpathi007)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Dhanushpathi_Prakash) [<img_src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='Telegram' height='40'>]([https://t.me/Dhanushpathi_Prakash]) 
