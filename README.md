@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Web development**
 
-- 📫 How to reach me **dhanushpathiprakash@gmail.com**
+- 📫 How to reach me **dhanushpathiprakash@outlook.com**
 
 - ⚡ Fun fact **I think I am Funy Person**
 
