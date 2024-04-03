@@ -5,7 +5,7 @@
 <img align="right" src="https://cdn.dribbble.com/users/1928646/screenshots/5781055/support.gif" width="300" height="250" />
 
 
-- 🌱 I’m currently learning **Django, Wagtail, open CV**
+- 🌱 I’m currently learning **Django, Wagtail, open CV, Frappe**
 
 - 📝 I regularly read articles on [https://medium.com/@dhanushpathiprakash](https://medium.com/@dhanushpathiprakash)
 
