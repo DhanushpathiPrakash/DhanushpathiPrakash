@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Django, Wagtail, open CV, Frappe**
 
-- 📝 I regularly read articles on [https://medium.com/@dhanushpathiprakash](https://medium.com/@dhanushpathiprakash)
-
 - 💬 Ask me about **Python, Web development**
 
 - 📫 How to reach me **dhanushpathiprakash@outlook.com**
